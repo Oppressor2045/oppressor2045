@@ -53,7 +53,7 @@
 
 ---
 
-## `[03]` INTEL REPORT
+## INTEL REPORT
 
 <div align="center">
 

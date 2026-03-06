@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Oppressor2045/Oppressor2045/main/banner.svg" width="100%"/>
+
 <!--
   ╔═══════════════════════════════════════════════════════════════╗
   ║         OPPRESSOR2045 — GITHUB PROFILE README                 ║

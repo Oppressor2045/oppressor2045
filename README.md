@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Oppressor2045/oppressor2045/blob/main/github%20profile.png)
 <!--
   ╔═══════════════════════════════════════════════════════════════╗
   ║         OPPRESSOR2045 — GITHUB PROFILE README                 ║
@@ -10,31 +10,14 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/Oppressor2045">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=4488FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%5BSYS%5D+Initializing+secure+connection...+DONE;%5BSYS%5D+Loading+modules%3A+RedTeam+%7C+GameDev+%7C+Exploit+Dev;%5BSYS%5D+Operator+profile+decrypted.+Welcome%2C+Oppressor2045." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1200&color=4488FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Welcome+to+the+Matrix...;365+days.+No+days+off.;Q+ends+here." alt="Typing SVG"/>
 </a>
 
 </div>
 
 ---
 
-<!-- CLASSIFICATION HEADER -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  DOCUMENT CLASSIFICATION: UNCLASSIFIED / PUBLIC                     ║
-║  SUBJECT: OPERATOR PROFILE — OPPRESSOR2045                          ║
-║  DIVISION: OFFENSIVE OPERATIONS · GAME SYSTEMS ENGINEERING          ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
----
-
-## `[01]` ARSENAL
+## ARSENAL
 
 <div align="center">
 

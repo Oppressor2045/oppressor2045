@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="./banner.svg" width="100%" alt="OPPRESSOR2045 — Offensive Security · Game Development"/>
+<img src="./banner.svg" width="100%" alt="OPPRESSOR2045 — Cyber Security · Game Development"/>
 
 <br/>
 
@@ -36,35 +36,9 @@
 
 ---
 
-## `[01]` OPERATOR PROFILE
-
-```bash
-╔══════════════════════════════════════════════════════╗
-║  $ whoami                                            ║
-║  > Oppressor2045                                     ║
-║                                                      ║
-║  $ cat /etc/operator.conf                            ║
-║  DESIGNATION  : Oppressor2045                        ║
-║  CLEARANCE    : ALPHA                                ║
-║  SPECIALTY    : Offensive Security + Game Dev        ║
-║  PRIMARY_VEC  : Web AppSec · Network Recon           ║
-║  SECONDARY    : Multiplayer Systems · Anti-Cheat     ║
-║  PLATFORM     : Kali Linux / Windows                 ║
-║  TZ           : KST (UTC+9)                          ║
-╚══════════════════════════════════════════════════════╝
-
-$ cat mission.log
-  [✓] Real-time multiplayer server — FastAPI + WebSocket
-  [✓] Game systems engineering    — C# / Lua / C++
-  [✓] Web application pentesting  — Burp Suite / OWASP
-  [✓] Network recon & enumeration — Nmap / Wireshark
-  [~] Binary exploitation         — IN PROGRESS
-  [~] CTF — HackTheBox / TryHackMe — IN PROGRESS
-```
-
 ---
 
-## `[02]` ARSENAL
+## `[01]` ARSENAL
 
 <div align="center">
 

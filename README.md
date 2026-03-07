@@ -1,4 +1,4 @@
-![logo](https://github.com/Oppressor2045/oppressor2045/blob/main/github%20profile.png)
+![banner](https://github.com/Oppressor2045/oppressor2045/blob/main/banner%20profile.png)
 <!--
   ╔═══════════════════════════════════════════════════════════════╗
   ║         OPPRESSOR2045 — GITHUB PROFILE README                 ║

@@ -10,7 +10,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/Oppressor2045">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1200&color=4488FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Welcome+to+the+Matrix...;365+days.+No+days+off.;Q+ends+here." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1200&color=4488FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Welcome+to+the+Matrix.;365+days.+No+days+off.;Q+ends+here." alt="Typing SVG"/>
 </a>
 
 </div>

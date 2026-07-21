@@ -63,6 +63,6 @@
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oppressor2045&bg_color=0a0f2e&color=4488ff&line=2255cc&point=4488ff&area=true&area_color=112266&hide_border=false&border_color=1a44ff&custom_title=OPERATION+LOG+—+COMMIT+ACTIVITY"/>
+<img width="68%" src="https://streak-stats.demolab.com?user=Oppressor2045&theme=dark&background=0a0f2e&border=1a44ff&ring=2255cc&fire=4466ff&currStreakNum=4488ff&sideNums=3377ee&currStreakLabel=4488ff&sideLabels=99bbff&dates=445577"/>
 
 </div>

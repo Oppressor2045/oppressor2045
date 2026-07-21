@@ -59,7 +59,7 @@
 
 <br/>
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=Oppressor2045&theme=dark&background=0a0f2e&border=1a44ff&ring=2255cc&fire=4466ff&currStreakNum=4488ff&sideNums=3377ee&currStreakLabel=4488ff&sideLabels=99bbff&dates=445577"/>
+<img width="68%" src="[https://github-readme-streak-stats.herokuapp.com?user=Oppressor2045](https://github-readme-activity-graph.vercel.app/graph?username=Oppressor2045&theme=dark&background=0a0f2e&border=1a44ff&ring=2255cc&fire=4466ff&currStreakNum=4488ff&sideNums=3377ee&currStreakLabel=4488ff&sideLabels=99bbff&dates=445577"/>
 
 <br/>
 

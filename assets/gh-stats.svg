@@ -1,0 +1,18 @@
+<svg width="495" height="224" viewBox="0 0 495 224" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>GitHub operative stats</title>
+<rect x="1" y="1" width="493" height="222" rx="6" fill="#0a0f2e" stroke="#1a44ff" stroke-width="1"/>
+<text x="247.5" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#4488ff" letter-spacing="2">OPERATIVE STATS</text>
+<line x1="24" y1="42" x2="471" y2="42" stroke="#1a3366" stroke-width="1"/>
+<rect x="24" y="65" width="8" height="8" fill="#4488ff" transform="rotate(45 28 69)"/>
+<text x="44" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#99bbff">Total Stars</text>
+<text x="471" y="74" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4488ff">6</text>
+<rect x="24" y="103" width="8" height="8" fill="#4488ff" transform="rotate(45 28 107)"/>
+<text x="44" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#99bbff">Total Commits</text>
+<text x="471" y="112" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4488ff">175</text>
+<rect x="24" y="141" width="8" height="8" fill="#4488ff" transform="rotate(45 28 145)"/>
+<text x="44" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#99bbff">Total PRs</text>
+<text x="471" y="150" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4488ff">4</text>
+<rect x="24" y="179" width="8" height="8" fill="#4488ff" transform="rotate(45 28 183)"/>
+<text x="44" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#99bbff">Total Issues</text>
+<text x="471" y="188" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4488ff">1</text>
+</svg>

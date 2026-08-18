@@ -1,0 +1,30 @@
+<svg width="495" height="280" viewBox="0 0 495 280" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Top languages by byte count</title>
+<rect x="1" y="1" width="493" height="278" rx="6" fill="#0a0f2e" stroke="#1a44ff" stroke-width="1"/>
+<text x="247.5" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#4488ff" letter-spacing="2">LANGUAGE ANALYSIS — BYTE COUNT</text>
+<line x1="24" y1="42" x2="471" y2="42" stroke="#1a3366" stroke-width="1"/>
+<text x="24" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#99bbff">Luau</text>
+<text x="471" y="70" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#4488ff">30.21%</text>
+<rect x="24" y="76" width="447" height="6" rx="3" fill="#12183a"/>
+<rect x="24" y="76" width="447.0" height="6" rx="3" fill="#4488ff" fill-opacity="1.0"/>
+<text x="24" y="104" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#99bbff">C++</text>
+<text x="471" y="104" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#4488ff">27.39%</text>
+<rect x="24" y="110" width="447" height="6" rx="3" fill="#12183a"/>
+<rect x="24" y="110" width="416.3" height="6" rx="3" fill="#4488ff" fill-opacity="0.85"/>
+<text x="24" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#99bbff">C#</text>
+<text x="471" y="138" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#4488ff">12.14%</text>
+<rect x="24" y="144" width="447" height="6" rx="3" fill="#12183a"/>
+<rect x="24" y="144" width="184.5" height="6" rx="3" fill="#4488ff" fill-opacity="0.7"/>
+<text x="24" y="172" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#99bbff">CSS</text>
+<text x="471" y="172" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#4488ff">11.29%</text>
+<rect x="24" y="178" width="447" height="6" rx="3" fill="#12183a"/>
+<rect x="24" y="178" width="171.6" height="6" rx="3" fill="#4488ff" fill-opacity="0.58"/>
+<text x="24" y="206" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#99bbff">HTML</text>
+<text x="471" y="206" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#4488ff">9.69%</text>
+<rect x="24" y="212" width="447" height="6" rx="3" fill="#12183a"/>
+<rect x="24" y="212" width="147.3" height="6" rx="3" fill="#4488ff" fill-opacity="0.46"/>
+<text x="24" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#99bbff">Python</text>
+<text x="471" y="240" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#4488ff">8.93%</text>
+<rect x="24" y="246" width="447" height="6" rx="3" fill="#12183a"/>
+<rect x="24" y="246" width="135.7" height="6" rx="3" fill="#4488ff" fill-opacity="0.36"/>
+</svg>

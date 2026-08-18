@@ -24,7 +24,7 @@
 
 ---
 
-## INTEL REPORT
+## Stats
 
 <div align="center">
 

@@ -24,27 +24,6 @@
 ![C++](https://img.shields.io/badge/C++-0a0f2e?style=for-the-badge&logo=cplusplus&logoColor=4488ff)
 ![Lua](https://img.shields.io/badge/Lua-0a0f2e?style=for-the-badge&logo=lua&logoColor=4488ff)
 
-**`// GAME SYSTEMS`**
-
-![Unity](https://img.shields.io/badge/Unity-0a0f2e?style=for-the-badge&logo=unity&logoColor=ffffff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0f2e?style=for-the-badge&logo=fastapi&logoColor=4488ff)
-![WebSocket](https://img.shields.io/badge/WebSocket-0a0f2e?style=for-the-badge&logo=socket.io&logoColor=4488ff)
-
-**`// CYBER SECURITY`**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0a0f2e?style=for-the-badge&logo=kalilinux&logoColor=557fff)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0f2e?style=for-the-badge&logo=burpsuite&logoColor=ff6600)
-![Wireshark](https://img.shields.io/badge/Wireshark-0a0f2e?style=for-the-badge&logo=wireshark&logoColor=1679ff)
-![Metasploit](https://img.shields.io/badge/Metasploit-0a0f2e?style=for-the-badge&logo=metasploit&logoColor=2596cd)
-![Nmap](https://img.shields.io/badge/Nmap-0a0f2e?style=for-the-badge&logoColor=4488ff&label=Nmap)
-
-**`// INFRASTRUCTURE`**
-
-![Git](https://img.shields.io/badge/Git-0a0f2e?style=for-the-badge&logo=git&logoColor=f05032)
-![Docker](https://img.shields.io/badge/Docker-0a0f2e?style=for-the-badge&logo=docker&logoColor=2496ed)
-![Linux](https://img.shields.io/badge/Linux-0a0f2e?style=for-the-badge&logo=linux&logoColor=ffd700)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0f2e?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-
 </div>
 
 ---

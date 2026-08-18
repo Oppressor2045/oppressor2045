@@ -1,9 +1,5 @@
 ![banner](https://github.com/Oppressor2045/oppressor2045/blob/main/assets/github%20banner.webp)
 
-<div align="center">
-
-### `Unity & Roblox Game Developer`
-
 <!-- TYPING SVG -->
 <a href="https://github.com/Oppressor2045">
   

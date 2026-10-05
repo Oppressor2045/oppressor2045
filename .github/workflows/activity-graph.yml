@@ -22,12 +22,16 @@ jobs:
           username: Oppressor2045
           token: ${{ secrets.GITHUB_TOKEN }}
           options: bg_color=0a0f2e&color=4488ff&title_color=4488ff&line=2255cc&point=4488ff&area=true&area_color=112266&hide_border=false&border_color=1a44ff&custom_title=OPERATION%20LOG%20%E2%80%94%20COMMIT%20ACTIVITY
-          output_path: dist/activity-graph.svg
+          output_path: assets/activity-graph.svg
 
-      - name: Publish activity graph
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit activity graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "No activity graph changes to commit."
+          else
+            git commit -m "Update activity graph"
+            git push
+          fi

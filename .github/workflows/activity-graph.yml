@@ -1,0 +1,33 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: Oppressor2045
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: bg_color=0a0f2e&color=4488ff&title_color=4488ff&line=2255cc&point=4488ff&area=true&area_color=112266&hide_border=false&border_color=1a44ff&custom_title=OPERATION%20LOG%20%E2%80%94%20COMMIT%20ACTIVITY
+          output_path: dist/activity-graph.svg
+
+      - name: Publish activity graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,4 +1,4 @@
-![banner](https://github.com/Oppressor2045/oppressor2045/blob/main/assets/github%20banner.webp)
+![banner](https://github.com/Oppressor2045/oppressor2045/blob/main/assets/Wavy_Discord_Profile.png)
 
 <!-- TYPING SVG -->
 <a href="https://github.com/Oppressor2045">

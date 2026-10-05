@@ -34,7 +34,7 @@
 
 <br/>
 
-<img width="96%" src="assets/activity-graph.svg" alt="OPERATION LOG — COMMIT ACTIVITY"/>
+<img width="96%" src="https://raw.githubusercontent.com/Oppressor2045/oppressor2045/output/activity-graph.svg" alt="OPERATION LOG — COMMIT ACTIVITY"/>
 
 <br/>
 
